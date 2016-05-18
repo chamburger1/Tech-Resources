@@ -8,3 +8,6 @@ https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html
 Using SFML to create a SIM-clone
 https://www.binpress.com/tutorial/creating-a-city-building-game-with-sfml-part-1-state-manager/123
 
+C++ primer
+https://offblast.org/stuff/books/c++_primer_5th_edition.pdf
+
